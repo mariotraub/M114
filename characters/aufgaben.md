@@ -73,7 +73,7 @@ So gibst du ein Unicode-Zeichen in Microsoft Word ein:
     Drücke dann Alt + C.
 
     Word ersetzt den Code durch das entsprechende Zeichen: €
-# Was wird das Problem sein, wenn sie auf dieselbe Weise wie in der vorangegangenen Aufgabedas Unicode-Zeichen des Violinschlüssels (Musiknoten) in eine Wordtext einfügen wollen?
+# Was wird das Problem sein, wenn sie auf dieselbe Weise wie in der vorangegangenen Aufgabedas Unicode-Zeichen des Violinschlüssels (U+1D11E) in eine Wordtext einfügen wollen?
 Dieses Zeichen liegt außerhalb der BMP (d.h. es hat einen Wert > U+FFFF).
 
 Probleme:
