@@ -1,3 +1,5 @@
+# Ausgangslage
+`ANANAS`
 # Rotieren
 ```
 ANANAS
