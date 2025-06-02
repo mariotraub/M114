@@ -1,5 +1,5 @@
 # 1.
-herunterskalieren auf 720
+Beides gleich
 # 2.
 nein
 # 3. 
